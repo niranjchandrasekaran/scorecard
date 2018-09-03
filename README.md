@@ -1,4 +1,4 @@
-#Scorecard
+# Scorecard
 
 Scorecard generates cricket scorecards. It reads a yaml file from [Cricsheet](www.google.com) and generates a scorecard akin to the [cricinfo](http://www.espncricinfo.com/).The code works for IPL scorecards but could possibly work for other T20 or Limited Overs cricket scorecards.
 
